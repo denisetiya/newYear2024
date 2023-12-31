@@ -107,7 +107,7 @@ function home() {
               </div>
             </div>
 
-            <div className='absolute bottom-10 w-full left-0 flex h-36'>
+            <div className='absolute bottom-16 w-full left-0 flex h-36'>
               <div>
                 <Lottie animationData={firework3}/>
               </div>
